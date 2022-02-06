@@ -15,4 +15,3 @@ create external table if not exists space (
 )
 row format delimited
 fields terminated by ',';
-stored as textfile location 'hdfs://namenode:8020/user/hive/warehouse/spaceX.db/space';
