@@ -33,6 +33,7 @@ services:
     container_name: hive-server
     volumes:
       - ./employee:/employee
+      - ./spaceX:/spacex
     env_file:
       - ./hadoop-hive.env
     environment:
