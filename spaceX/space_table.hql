@@ -1,7 +1,6 @@
 create database if not exists spaceX;
 use spaceX;
 create external table if not exists space (
-  ID_temp varchar (100),
   Flight_Number varchar (100),
   Launch_Date varchar (100),
   Launch_Time varchar (100),
