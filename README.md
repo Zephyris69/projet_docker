@@ -11,6 +11,9 @@ This project are composed by 5 containers. We need all of them for a Hive soluti
 
 I will start to described containers one by one after that i will explain for some troubleshooting.
 
+![image](https://user-images.githubusercontent.com/97912183/153219916-6a81fe1d-cda9-43db-9fb5-790faf7d60f8.png)
+
+
 ## Namenode :
 
 The NameNode is at the core of the Hadoop cluster. It keeps the directory tree of all files in the file system, and tracks where the file data is actually kept in the cluster.
