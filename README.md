@@ -1,4 +1,4 @@
-# projet_docker Morand Jonathan
+# projet_docker Hive Morand Jonathan
 container_BD_big_data with database Hive
 
 For use this project you need to download git or clone it, when you are on your server or desktop, directory are like this :
