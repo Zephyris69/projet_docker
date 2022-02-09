@@ -111,7 +111,7 @@ bde2020/hive-metastore-postgresql:2.3.0 :
 
 https://hub.docker.com/layers/bde2020/hive-metastore-postgresql/2.3.0/images/sha256-9ab91699d15131b874829e6572006cd9d9f1cca413f438b6f21c65b412152bf1?context=explore
 
-# How exactly do all images :
+# How exactly work all images :
 
 1/ Namenode :
 
